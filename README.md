@@ -54,8 +54,8 @@ There are backward compatible upgrades to ERC20 such as Chainlink, which is a ER
     2. Create an inherited token: 
 
     ``` solidity 
-    contract GLDToken is ERC20 {
-        constructor(uint256 initialSupply) ERC20("Name here", "Symbol here") {
+    contract ReconquistaToken is ERC20 {
+        constructor(uint256 initialSupply) ERC20("Reconquista", "ESP") {
             _mint(msg.sender, initialSupply);
         }
     ```
