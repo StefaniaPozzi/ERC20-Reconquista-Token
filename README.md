@@ -4,8 +4,7 @@
 
 
 - [P. Collins video ](https://www.youtube.com/watch?v=8rpir_ZSK1g&t=743s) using brownie, python, solidity
-- [Kader Calls ](https://www.youtube.com/watch?v=EeUqqZoaUlw) how to deploy a token on Eth and add LP
-- [Ali Solanki ](https://www.youtube.com/watch?v=2SWH1DQITVw)How to give VALUE to a Cryptocurrency? Liquidity Pools Rug Pull Scam
+- [Ali Solanki ](https://www.youtube.com/watch?v=qH3TkfnUbVU)How to give value to a token. Liquidity Pools
 
 ### 1.0 Takeaways
 
