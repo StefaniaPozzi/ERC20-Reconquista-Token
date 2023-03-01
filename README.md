@@ -3,7 +3,7 @@
 ## 1. Fundamentals 
 
 
-- [P. Collins video ](https://www.youtube.com/watch?v=8rpir_ZSK1g&t=743s) using brownie, python, solidity
+- [P. Collins ](https://www.youtube.com/watch?v=8rpir_ZSK1g&t=743s) using brownie, python, solidity
 - [Ali Solanki ](https://www.youtube.com/watch?v=qH3TkfnUbVU)How to give value to a token. Liquidity Pools
 
 ### 1.0 Takeaways
